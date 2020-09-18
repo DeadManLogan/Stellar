@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac29891ffa0458c8ab95de10bb1ffe7, type: 3}
+  m_Name: Water Asuka
+  m_EditorClassIdentifier: 
+  properties:
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: 6d029b8556308ac9d929b73a4dd6372e, type: 3}
+    element: {fileID: 11400000, guid: 4f4c612545d40e4c4b7c0d9d2dab52c3, type: 2}
+  - stringValue: 
+    intValue: 20
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 644a93f76cc503d81ad091000de04b0a, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: 4da3bf0e8071bc6d7b5663d0fc03b80b, type: 3}
+    element: {fileID: 11400000, guid: 58811438dbbc5d445a94fcba2993ebac, type: 2}
+  - stringValue: An exotic oceanic sea-girl appears.
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: bd4cf43009f2a86efbb247aa9bcfa690, type: 2}
+  - stringValue: Splash, Splash!!
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: edc75c93f6eeb07998dc4a22b1d695bb, type: 2}
+  - stringValue: 
+    intValue: 1
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 2e85f361f740290b0a5c1822741acfab, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: d85898adc6d20133eb7a3bd10392dc1a, type: 3}
+    element: {fileID: 11400000, guid: 49076beb2c5eb3318baacb541e9bfdf1, type: 2}
+  - stringValue: Water Asuka
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: a9406db6f8a934ed882cfb2d15b398ca, type: 2}
+  - stringValue: 
+    intValue: 1
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: d0c5c3622b1abd51193e06a2f8852e8f, type: 2}
+  cost: 1
+  cardType: {fileID: 11400000, guid: da5a8325c340f871caa6475bd5b66155, type: 2}
+  element: {fileID: 11400000, guid: 8889d2b31857782389b62ca6a59815d6, type: 2}

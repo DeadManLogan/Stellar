@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1c139c11b38dc05238284a430f8cb24d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - portrait: {instanceID: 0}
+  - statsUI: {instanceID: 0}
+  - handLogic: {instanceID: 0}
+  - downLogic: {instanceID: 0}
+  - enemyHandLogic: {instanceID: 0}
+  - currentHolder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

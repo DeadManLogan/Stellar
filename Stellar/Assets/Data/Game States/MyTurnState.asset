@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e99a142238223a093105d00cee8575, type: 3}
+  m_Name: MyTurnState
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: f00393d15e92a1ebd87e8a829bc46ae6, type: 2}
+  - {fileID: 11400000, guid: d9c77117b37454380a114e06ec74a835, type: 2}
+  - {fileID: 11400000, guid: 8322479364fe1c94f87cafa20c5ad4e5, type: 2}

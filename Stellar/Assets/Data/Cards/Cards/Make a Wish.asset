@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac29891ffa0458c8ab95de10bb1ffe7, type: 3}
+  m_Name: Make a Wish
+  m_EditorClassIdentifier: 
+  properties:
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: e8a28915d0864832c99dd363374ee851, type: 3}
+    element: {fileID: 11400000, guid: 49076beb2c5eb3318baacb541e9bfdf1, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: fefa8f3bb01f72027aed172ba121b461, type: 3}
+    element: {fileID: 11400000, guid: 58811438dbbc5d445a94fcba2993ebac, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: 784d39a4580e01b0cac50decc05c808f, type: 3}
+    element: {fileID: 11400000, guid: 4f4c612545d40e4c4b7c0d9d2dab52c3, type: 2}
+  - stringValue: Your creatures get +3 attack until the end of the turn
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: bd4cf43009f2a86efbb247aa9bcfa690, type: 2}
+  - stringValue: Make a wish
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: a9406db6f8a934ed882cfb2d15b398ca, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: edc75c93f6eeb07998dc4a22b1d695bb, type: 2}
+  cost: 2
+  cardType: {fileID: 11400000, guid: 7d1e83f8061b987a99fa9a8f2ad66a65, type: 2}

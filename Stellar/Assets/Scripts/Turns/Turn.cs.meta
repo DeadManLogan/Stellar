@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad21e5c3609393203bbd06ed524eeb6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - myTurnState: {fileID: 11400000, guid: 10f69a91e4c002d41a43e1f69fbed7c1, type: 2}
+  - enemyTurnState: {fileID: 11400000, guid: 03255dc8b6ff3e84ca1fb7af375303ec, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

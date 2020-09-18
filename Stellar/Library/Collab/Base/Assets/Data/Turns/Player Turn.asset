@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad21e5c3609393203bbd06ed524eeb6c, type: 3}
+  m_Name: Player Turn
+  m_EditorClassIdentifier: 
+  player: {fileID: 11400000, guid: e1e5080fee9ff849ca87926c209861ec, type: 2}
+  forceExit: 0
+  turnStartActions:
+  - {fileID: 11400000, guid: 15a8d1ae65486a397bcde87fede3f1aa, type: 2}
+  - {fileID: 11400000, guid: 49c41cc18cfe25d4e921281b45909528, type: 2}
+  - {fileID: 11400000, guid: 3e70482febf521f29b45b59aa77b709a, type: 2}
+  - {fileID: 11400000, guid: 3e70482febf521f29b45b59aa77b709a, type: 2}
+  myTurnState: {fileID: 11400000, guid: 10f69a91e4c002d41a43e1f69fbed7c1, type: 2}
+  enemyTurnState: {fileID: 11400000, guid: 03255dc8b6ff3e84ca1fb7af375303ec, type: 2}

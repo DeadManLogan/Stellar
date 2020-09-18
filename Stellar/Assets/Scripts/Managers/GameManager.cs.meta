@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3533628cdef32f6f2a71e109d1f343d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentState: {instanceID: 0}
+  - currentPlayer: {instanceID: 0}
+  - playerOneHolder: {instanceID: 0}
+  - otherPlayersHolder: {instanceID: 0}
+  - cardPrefab: {instanceID: 0}
+  - onTurnChanged: {instanceID: 0}
+  - onPhaseChanged: {instanceID: 0}
+  - turnText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
